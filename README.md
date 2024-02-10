@@ -11,6 +11,7 @@ Six test single page applications (SPAs) of various SPA technologies for the pur
 * Bootstrap
 * CSS
 * ESLint
+* Fat Client Architecture
 * HTML
 * JavaScript
 * JQuery
@@ -28,6 +29,7 @@ Six test single page applications (SPAs) of various SPA technologies for the pur
 * Svelte
 * Svelte Components
 * Svelte Single Page Application Router
+* Thin Client Architecture
 * TSLib
 * TypeScript
 * Vite
