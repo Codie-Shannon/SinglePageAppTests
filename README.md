@@ -4,4 +4,33 @@ Six test single page applications (SPAs) of various SPA technologies for the pur
 
 
 # What I Learned
-* Agile Scrum
+* Angular
+* Angular Components
+* Angular Router
+* Babel
+* Bootstrap
+* CSS
+* ESLint
+* HTML
+* JavaScript
+* JQuery
+* JSX
+* Popper.js
+* React
+* React Bootstrap
+* React Components
+* React Router
+* ReactDOM
+* Solid Bootstrap
+* Solid Components
+* Solid.js
+* Solid.js Router
+* Svelte
+* Svelte Components
+* Svelte Single Page Application Router
+* TSLib
+* TypeScript
+* Vite
+* Vue
+* Vue Components
+* Vue Router
